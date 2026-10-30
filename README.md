@@ -1,2 +1,2 @@
 # shkaf_bot
-tg-bot with bells and whistles for your organizing your wardrobe 👜
+tg-bot with bells and whistles for organizing your wardrobe 👜
